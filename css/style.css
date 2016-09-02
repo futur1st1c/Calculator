@@ -1,7 +1,7 @@
 .display
 {
 background-color:#222;
-width:220px;
+width:240px;
 position:relative;
 left:15px;
 top:20px;
@@ -12,6 +12,7 @@ height:40px;
 position:relative;
 left:2px;
 top:2px;
+width:240px;
 height:35px;
 color:black;
 background-color:#bccd95;
